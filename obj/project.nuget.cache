@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "eVR9NiPycfwzKllfWUM+HsYBd4DboEYOoQRala04M08Ic/lssqVZyXgqE/F2t7BXamSTV8wKxDCTtasZamaXyw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\REX\\Downloads\\FULLMOCK\\ShipTracker.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\REX\\.nuget\\packages\\gmap.net.windowsforms\\1.7.5\\gmap.net.windowsforms.1.7.5.nupkg.sha512"
+  ],
+  "logs": []
+}

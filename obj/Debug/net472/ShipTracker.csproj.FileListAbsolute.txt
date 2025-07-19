@@ -1,0 +1,16 @@
+C:\Users\REX\Downloads\FULLMOCK\obj\Debug\net472\ShipTracker.csproj.AssemblyReference.cache
+C:\Users\REX\Downloads\FULLMOCK\obj\Debug\net472\ShipTracker.MainForm.resources
+C:\Users\REX\Downloads\FULLMOCK\obj\Debug\net472\ShipTracker.csproj.GenerateResource.cache
+C:\Users\REX\Downloads\FULLMOCK\obj\Debug\net472\ShipTracker.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\REX\Downloads\FULLMOCK\obj\Debug\net472\ShipTracker.AssemblyInfoInputs.cache
+C:\Users\REX\Downloads\FULLMOCK\obj\Debug\net472\ShipTracker.AssemblyInfo.cs
+C:\Users\REX\Downloads\FULLMOCK\obj\Debug\net472\ShipTracker.csproj.CoreCompileInputs.cache
+C:\Users\REX\Downloads\FULLMOCK\bin\Debug\net472\ShipTracker.exe.config
+C:\Users\REX\Downloads\FULLMOCK\bin\Debug\net472\ShipTracker.exe
+C:\Users\REX\Downloads\FULLMOCK\bin\Debug\net472\ShipTracker.pdb
+C:\Users\REX\Downloads\FULLMOCK\bin\Debug\net472\GMap.NET.Core.dll
+C:\Users\REX\Downloads\FULLMOCK\bin\Debug\net472\GMap.NET.WindowsForms.dll
+C:\Users\REX\Downloads\FULLMOCK\obj\Debug\net472\ShipTracker.csproj.CopyComplete
+C:\Users\REX\Downloads\FULLMOCK\obj\Debug\net472\ShipTracker.exe
+C:\Users\REX\Downloads\FULLMOCK\obj\Debug\net472\ShipTracker.pdb
+C:\Users\REX\Downloads\FULLMOCK\obj\Debug\net472\ShipTracker.Properties.Resources.resources

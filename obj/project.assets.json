@@ -1,0 +1,106 @@
+{
+  "version": 3,
+  "targets": {
+    ".NETFramework,Version=v4.7.2": {
+      "GMap.NET.WindowsForms/1.7.5": {
+        "type": "package",
+        "compile": {
+          "lib/net40/GMap.NET.Core.dll": {},
+          "lib/net40/GMap.NET.WindowsForms.dll": {}
+        },
+        "runtime": {
+          "lib/net40/GMap.NET.Core.dll": {},
+          "lib/net40/GMap.NET.WindowsForms.dll": {}
+        }
+      }
+    },
+    ".NETFramework,Version=v4.7.2/win7-x86": {
+      "GMap.NET.WindowsForms/1.7.5": {
+        "type": "package",
+        "compile": {
+          "lib/net40/GMap.NET.Core.dll": {},
+          "lib/net40/GMap.NET.WindowsForms.dll": {}
+        },
+        "runtime": {
+          "lib/net40/GMap.NET.Core.dll": {},
+          "lib/net40/GMap.NET.WindowsForms.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "GMap.NET.WindowsForms/1.7.5": {
+      "sha512": "VA2836bCMgIAhcvpQIJpmDJrQFm+nnH8AiqKzGqvMAoamO+UqAoNy6b+YPKNAqS1+2RRAcq12nrC582tUcb90A==",
+      "type": "package",
+      "path": "gmap.net.windowsforms/1.7.5",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "gmap.net.windowsforms.1.7.5.nupkg.sha512",
+        "gmap.net.windowsforms.nuspec",
+        "lib/net20/GMap.NET.Core.dll",
+        "lib/net20/GMap.NET.WindowsForms.dll",
+        "lib/net40/GMap.NET.Core.dll",
+        "lib/net40/GMap.NET.WindowsForms.dll"
+      ]
+    }
+  },
+  "projectFileDependencyGroups": {
+    ".NETFramework,Version=v4.7.2": [
+      "GMap.NET.WindowsForms >= 1.7.5"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\REX\\.nuget\\packages\\": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "C:\\Users\\REX\\Downloads\\FULLMOCK\\ShipTracker.csproj",
+      "projectName": "ShipTracker",
+      "projectPath": "C:\\Users\\REX\\Downloads\\FULLMOCK\\ShipTracker.csproj",
+      "packagesPath": "C:\\Users\\REX\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\REX\\Downloads\\FULLMOCK\\obj\\",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "C:\\Users\\REX\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "net472"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net472": {
+          "targetAlias": "net472",
+          "projectReferences": {}
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "net472": {
+        "targetAlias": "net472",
+        "dependencies": {
+          "GMap.NET.WindowsForms": {
+            "target": "Package",
+            "version": "[1.7.5, )"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.416\\RuntimeIdentifierGraph.json"
+      }
+    },
+    "runtimes": {
+      "win7-x86": {
+        "#import": []
+      }
+    }
+  }
+}
