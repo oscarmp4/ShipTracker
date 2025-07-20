@@ -8,7 +8,7 @@ namespace ShipTracker
     public static class DAL
     {
         private static readonly string connectionString =
-            "Data Source=OMDESKTOP;Initial Catalog=ShipTracker;User ID=sk;Password=sk2005;";
+            "Data Source=SQLDESKTOP;Initial Catalog=ShipTracker;User ID=xx;Password=xxxxx;";
 
         public static Route GetRouteForShip(int shipId)
         {
