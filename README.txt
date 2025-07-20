@@ -1,4 +1,4 @@
-ShipTracker - VT Explorer Clone
+ShipTracker - VT Explorer Inspired
 
 1️⃣ Run Database.sql on your local SQL Server instance (Desktop, user: sk, password: sk2005).
 
