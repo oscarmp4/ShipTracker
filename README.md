@@ -5,7 +5,7 @@ VT Explorer Inspired
 
 VStudio 2019 with .NET Framework 4.7.2
 
-1️⃣ Run Database.sql on your local SQL Server instance (Desktop, user: sk, password: sk2005).
+1️⃣ Run Database.sql on your local SQL Server instance (Desktop, user: xx, password: xxxxxx).
 
 2️⃣ Prepare a Java/OpenStreetMap Classic map in index.html under C:/PathToYourJavaMap/
 
